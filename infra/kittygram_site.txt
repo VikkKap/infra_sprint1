@@ -1,0 +1,5 @@
+IP: 51.250.21.57;
+name_taski: https://vikk-bk.ddns.net/;
+name_kittygram: https://kittygram-vik.ddns.net/;
+login: admin;
+password: admin;
