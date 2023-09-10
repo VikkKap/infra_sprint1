@@ -38,7 +38,7 @@ python manage.py runserver
 ```
 ## Author
 
-```
+
 **VikkKap**\
 You can check my other repositories in my GitHub profile. Click [here](https://github.com/VikkKap).
-```
+
